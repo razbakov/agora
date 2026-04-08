@@ -165,13 +165,13 @@
         </p>
         <div class="grid-three">
           <a
-            href="https://github.com/razbakov/agora"
+            href="https://github.com/razbakov/agora-org"
             class="link-card"
             target="_blank"
             rel="noopener"
           >
             <h3>GitHub</h3>
-            <p>Browse the code, open issues, submit PRs. Everything is public.</p>
+            <p>Browse the governance research, open issues, submit PRs. Everything is public.</p>
           </a>
           <a
             href="https://razbakov.com/blog/2026-04-07-democracy-is-broken"
