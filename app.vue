@@ -21,7 +21,7 @@
         </p>
         <div class="hero-actions">
           <a
-            href="https://razbakov.com/blog/2026-04-07-what-if-democracy-had-an-api"
+            href="https://razbakov.com/blog/2026-04-07-democracy-is-broken"
             class="btn btn-primary"
           >
             Read the Manifesto
@@ -174,7 +174,7 @@
             <p>Browse the code, open issues, submit PRs. Everything is public.</p>
           </a>
           <a
-            href="https://razbakov.com/blog/2026-04-07-what-if-democracy-had-an-api"
+            href="https://razbakov.com/blog/2026-04-07-democracy-is-broken"
             class="link-card"
             target="_blank"
             rel="noopener"
