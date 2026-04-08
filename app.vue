@@ -13,11 +13,11 @@
 
     <section class="hero">
       <div class="container">
-        <h2 class="hero-title">Governance for the Age of AI</h2>
+        <h2 class="hero-title">What if you could delegate your vote to people you actually trust?</h2>
         <p class="hero-subtitle">
-          What if democracy had an API? A research project exploring how
-          personal AI agents, liquid democracy, and resource management could
-          work together to create governance that actually represents people.
+          Your doctor for healthcare. Your engineer for infrastructure.
+          Your teacher for education. And AI that keeps it all aligned
+          with what you actually care about.
         </p>
         <div class="hero-actions">
           <a
