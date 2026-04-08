@@ -33,23 +33,24 @@
 
     <section id="vision" class="section">
       <div class="container">
-        <h2 class="section-title">The Problem</h2>
+        <h2 class="section-title">Why this matters</h2>
         <div class="grid-two">
           <div class="card">
-            <h3>Broken Delegation</h3>
+            <h3>We vote for strangers</h3>
             <p>
-              We delegate important life decisions &mdash; healthcare, education,
-              finance, politics &mdash; to strangers we have never met:
-              politicians elected through mass media campaigns, opaque
-              algorithms, and distant institutions.
+              Every election asks you to choose between people you have never
+              met. Yet you know a doctor, an engineer, a teacher &mdash; people
+              whose judgment you trust because you have seen it in action.
+              Why can't you delegate to them?
             </p>
           </div>
           <div class="card">
-            <h3>Isolated AI</h3>
+            <h3>Nobody has time for 200 decisions a year</h3>
             <p>
-              AI assistants are emerging as personal tools but operate in
-              isolation, without governance frameworks or the ability to
-              represent their user's values in collective decision-making.
+              Even with better systems, participation is the bottleneck.
+              What if a personal AI that knows your values could handle
+              the routine decisions &mdash; and flag you when something
+              important needs your attention?
             </p>
           </div>
         </div>
@@ -58,37 +59,36 @@
 
     <section id="layers" class="section section-alt">
       <div class="container">
-        <h2 class="section-title">Three-Layer Governance Model</h2>
+        <h2 class="section-title">How it works</h2>
         <p class="section-description">
-          Agora proposes a system where technology handles logistics, democracy
-          handles values, and individuals retain sovereignty.
+          Three layers, each handled by the system that does it best.
         </p>
         <div class="grid-three">
           <div class="layer-card">
             <div class="layer-number">1</div>
-            <h3>Resource Management AI</h3>
+            <h3>Machines handle logistics</h3>
             <p>
-              Algorithms optimize logistics &mdash; supply chains, energy grids,
-              infrastructure &mdash; based on constraints the community defines.
-              AI handles <em>how</em>, never <em>what</em>.
+              How much water does this region need? Where should energy go?
+              These are measurable questions. Let sensors and algorithms
+              manage the <em>how</em> &mdash; humans decide the <em>what</em>.
             </p>
           </div>
           <div class="layer-card">
             <div class="layer-number">2</div>
-            <h3>Liquid Democracy</h3>
+            <h3>People you trust set direction</h3>
             <p>
-              Citizens vote directly or delegate to trusted people in their
-              network &mdash; a friend who is a doctor for health policy, an
-              engineer for tech decisions. Delegation is always revocable.
+              Vote directly on any issue, or delegate to someone in your
+              network who knows better. Your doctor for health policy. Your
+              engineer for infrastructure. Take your vote back anytime.
             </p>
           </div>
           <div class="layer-card">
             <div class="layer-number">3</div>
-            <h3>Personal Sovereignty</h3>
+            <h3>You stay in control</h3>
             <p>
-              Every individual retains ultimate control. Your personal AI team is
-              calibrated to your values through coaching and self-assessment. You
-              can override any delegate or agent at any time.
+              Your personal AI team learns your values through conversation,
+              not configuration. It participates on your behalf when you are
+              busy &mdash; and you can override everything, always.
             </p>
           </div>
         </div>
@@ -97,34 +97,37 @@
 
     <section class="section">
       <div class="container">
-        <h2 class="section-title">Values</h2>
+        <h2 class="section-title">Built in the open</h2>
+        <p class="section-description">
+          If the code is closed, you cannot trust it with governance. Period.
+        </p>
         <div class="values-grid">
           <div class="value-item">
-            <strong>Open Knowledge</strong>
+            <strong>Open source</strong>
             <span>
-              Code is MIT, research is CC BY 4.0, protocols are open standards.
-              No black boxes.
+              All code is MIT licensed. All research is CC BY 4.0.
+              No black boxes, no proprietary protocols.
             </span>
           </div>
           <div class="value-item">
-            <strong>Trust Through Proximity</strong>
+            <strong>Trust starts local</strong>
             <span>
-              Governance legitimacy comes from real relationships, not abstract
-              representation.
+              Governance legitimacy comes from real relationships &mdash;
+              people you actually know, not abstract representation.
             </span>
           </div>
           <div class="value-item">
-            <strong>Value Alignment First</strong>
+            <strong>Values before features</strong>
             <span>
-              AI agents must be grounded in the user's actual values before they
-              act on anyone's behalf.
+              Your AI agents start with a coaching session about what matters
+              to you &mdash; not a settings page.
             </span>
           </div>
           <div class="value-item">
-            <strong>Empiricism</strong>
+            <strong>Prove it or drop it</strong>
             <span>
-              Test all assumptions through experiments and continuous revision.
-              No dogma.
+              Every phase tests a hypothesis. If people don't actually
+              delegate to their agents, the later phases don't make sense.
             </span>
           </div>
         </div>
@@ -133,23 +136,23 @@
 
     <section class="section section-alt">
       <div class="container">
-        <h2 class="section-title">Current Phase</h2>
+        <h2 class="section-title">Where we are now</h2>
         <div class="phase-card">
           <div class="phase-label">Phase 1</div>
-          <h3>Prove the personal governance layer works</h3>
+          <h3>Can a personal AI team actually represent your values?</h3>
           <p>
-            The Agora framework already exists as a personal productivity tool
-            with AI agents, coaching, OKRs, and GTD. The current focus is
-            adoption &mdash; validating that users actually delegate decisions to
-            their agents and that those agents stay aligned with values over
-            time.
+            Before connecting people into networks, we need to prove the
+            foundation works. Ikigai Team is a personal AI system with six
+            agents calibrated to your values through coaching. It manages your
+            day, tracks your goals, and makes decisions the way you would.
+            That is the governance prototype.
           </p>
           <a
             href="https://ikigai.razbakov.com"
             class="btn btn-primary"
             style="margin-top: 1.5rem"
           >
-            See the Ikigai Team Project
+            See Ikigai Team
           </a>
         </div>
       </div>
@@ -157,11 +160,10 @@
 
     <section id="involved" class="section">
       <div class="container">
-        <h2 class="section-title">Get Involved</h2>
+        <h2 class="section-title">Get involved</h2>
         <p class="section-description">
-          Agora is an open research project. Whether you are a developer,
-          governance researcher, political scientist, or just someone who thinks
-          democracy deserves better tooling &mdash; there is room for you.
+          Whether you study governance, write code, or just think democracy
+          deserves an upgrade &mdash; there is room for you.
         </p>
         <div class="grid-three">
           <a
@@ -171,7 +173,7 @@
             rel="noopener"
           >
             <h3>GitHub</h3>
-            <p>Browse the governance research, open issues, submit PRs. Everything is public.</p>
+            <p>All governance research, models, and documentation. Open issues, open PRs.</p>
           </a>
           <a
             href="https://razbakov.com/blog/2026-04-07-democracy-is-broken"
@@ -179,20 +181,20 @@
             target="_blank"
             rel="noopener"
           >
-            <h3>Blog Post</h3>
+            <h3>Read the essay</h3>
             <p>
-              Read the full essay on why democracy needs an API and how Agora
-              approaches it.
+              The full story: how liquid democracy, AI agents, and resource
+              management connect into one system.
             </p>
           </a>
           <a
             href="mailto:razbakov.aleksey@gmail.com"
             class="link-card"
           >
-            <h3>Contact</h3>
+            <h3>Say hello</h3>
             <p>
-              Reach out directly. Especially interested in hearing from
-              governance researchers and practitioners.
+              Especially interested in hearing from governance researchers,
+              political scientists, and anyone building in this space.
             </p>
           </a>
         </div>
